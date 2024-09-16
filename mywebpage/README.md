@@ -1,1 +1,1 @@
-Папка для личной странички
+https://AnnSO12.github.io/lingdata/mywebpage/
